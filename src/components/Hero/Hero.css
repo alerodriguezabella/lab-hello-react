@@ -1,0 +1,9 @@
+.hero {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    background-color: #1F2535;
+    padding: 20px;
+}
